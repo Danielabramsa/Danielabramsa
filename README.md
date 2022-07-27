@@ -1,66 +1,80 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
-(Use dark theme to find my socials ;)
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
 
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-<a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Aditya+Kumar+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+3%2B+years+of+experience+%F0%9F%93%88;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Aditya Kumar" width="650" height="55">
 
-<br />
-<br />
-<br />
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-### 📕 Latest Blog Post
+# 🔥 Skills 🔥
 
-<!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
+### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
 
-<br/>
+<p style="padding:10px;">
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+</p>
 
-### Languages and Tools:
+### 🔹Backend framework and libraries:ㅤ
+<p style="padding:10px;">
+    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
+      <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> 
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+      <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=40 width=50 /> 
+    </a>
+    <a href="https://spring.io/projects/spring-data" target="_blank"> 
+      <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=40 width=50 />
+    </a>
+    <a href="https://spring.io/projects/spring-security" target="_blank"> 
+      <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
+    </a>
+    <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
+      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> 
+    </a>
+</p>
+
+### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<p style="padding:10px;"> 
+    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
+</p>
+
+### 🔹Messaging Queues:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<p style="padding:10px;"> 
+    <a style="padding-right:8px;" href="https://kafka.apache.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 /> </a>
+    <a style="padding-right:8px;" href="https://cloud.google.com/pubsub/docs/overview" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png" height=60 width=60 /> </a>
+    <a style="padding-right:8px;" href="https://www.rabbitmq.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height=60 width=60 /> </a>
+    <a style="padding-right:8px;" href="https://aws.amazon.com/sqs/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/App_Services_copy_Amazon_SQS-512.png" height=65 width=70 /> </a>
+</p>
+
+### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<p style="padding:10px;"> 
+    <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" target="_blank"> <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height=65 width=70 /> </a>
+    <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a>
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+# 📈 Statistics 📈
+![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+
+<p align="center">
+  <a href="https://github.com/AdityaKumar28">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
+  </a>
+</p>
 
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-### Softwares:
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
-<br />
-<br />
-
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
-
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+</div>
